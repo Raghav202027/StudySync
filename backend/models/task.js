@@ -65,3 +65,5 @@ That way, we don't have to explicitly set it every time — Mongoose will handle
 
 */
 
+module.exports = mongoose.model('Task',TaskSchema);
+
