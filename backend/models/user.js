@@ -1,0 +1,1 @@
+//this is a Mongoose model, which defines how user data is structured and saved in your MongoDB database. 
